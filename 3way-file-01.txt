@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 My name is Hamail @ Lala  
 doing last assignment
 it is friday tomorrow
+=======
+My name is Hamail @ Lala and Catto 
+doing last assignment with collaboration.
+it is friday tonight
+>>>>>>> 476a601d7a41b55f215324d7bf8d89782afafeec
