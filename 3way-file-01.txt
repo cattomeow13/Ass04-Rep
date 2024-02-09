@@ -10,6 +10,6 @@ it is friday tonight
 hello 
 
 hey there changes for rebase.
-
+"second change for rebase"
 
 >>>>>>> 476a601d7a41b55f215324d7bf8d89782afafeec
